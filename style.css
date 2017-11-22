@@ -15,6 +15,11 @@ header
 	text-align: center;
 }
 
+.show
+{
+	font-family: sans-serif;;
+}
+
 .container1{
 	background-color: red;
 	width:100%;
@@ -23,7 +28,7 @@ header
 .container2{
 	background-color: lime;
 	width: 1150px;
-	height: 1000px;
+	height: 3000px;
 	margin-right: 300px;
 }
 footer{
